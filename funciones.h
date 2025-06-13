@@ -2,6 +2,10 @@
 #define FUNCIONES_H
 
 #define CANT_ARTICULOS 60
+#define SUCURSAL_1 0
+#define SUCURSAL_2 1
+#define SUCURSAL_3 2
+
 
 typedef struct {
     char descripcion[90];
